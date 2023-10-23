@@ -3,7 +3,9 @@
 Projeto 'Minha Pokédex' desenvolvido com backend em Node JS.
 
 É necessário criar o banco de dados a seguir:
-- CREATE DATABASE `pokedex` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+```
+CREATE DATABASE `pokedex` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+```
 
 ## Project setup
 ```
